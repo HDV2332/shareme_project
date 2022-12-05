@@ -1,0 +1,19 @@
+{
+    "endOfLine": "lf",
+    "useTabs": false,
+    "jsxBracketSameLine": true,
+    "printWidth": 120,
+    "trailingComma": "all",
+    "arrowParents": "avoid",
+    "semi": true,
+    "singleQuote": false,
+    "tabWidth": 2,
+    "overrides": [
+      {
+        "files": ["*.scss"],
+        "options": {
+          "singleQuote": false
+        }
+      }
+    ]
+  }
