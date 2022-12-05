@@ -1,17 +1,12 @@
-# Project Title
+## ShareMe App
 Pinterest-esque Media Application with basic features 
 (login/logout, post, comment, delete)
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
 ## Getting Started
-
+read README.md
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* npm install for both shareme_backend & shareme_frontend before starting project
 
 ### Installing
 
@@ -23,14 +18,20 @@ An in-depth paragraph about your project and overview of use.
 * How to run the program
 * Step-by-step bullets
 ```
-code blocks for commands
+* backend: 
+cd sharemen_backend
+npm start 
+-> sanity start 
+* frontend: 
+cd sharemen_frontend
+npm start 
 ```
 
 ## Help
 
 Any advise for common problems or issues.
 ```
-command to run if program contains helper info
+Pray and google if any problem comes up
 ```
 
 ## Authors
@@ -51,12 +52,3 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 ## License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
